@@ -1,6 +1,6 @@
 import type { HealthResponse, PredictionResponse } from "./types";
 
-export const API_BASE_URL = "https://hrus-api.onrender.com";
+export const API_BASE_URL = "https://hrus-api-jl4f.onrender.com/";
 
 export const ACCEPTED_MIME_TYPES = [
   "image/tiff",
